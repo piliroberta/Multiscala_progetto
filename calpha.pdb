@@ -1,0 +1,26 @@
+TITLE     Glycine aRginine prOline Methionine Alanine Cystine Serine in water t= 1000.00000
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   63.145   72.564   60.549  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      5  CA  GLY     1      37.783  25.697  30.354  1.00  0.00           C
+ATOM     12  CA  LEU     2      35.593  22.677  30.874  1.00  0.00           C
+ATOM     31  CA  TRP     3      32.483  24.567  31.824  1.00  0.00           C
+ATOM     55  CA  ARG     4      31.043  27.757  30.314  1.00  0.00           C
+ATOM     79  CA  ALA     5      29.703  30.527  32.544  1.00  0.00           C
+ATOM     89  CA  LEU     6      25.993  30.577  33.424  1.00  0.00           C
+ATOM    108  CA  TRP     7      25.223  33.937  31.844  1.00  0.00           C
+ATOM    132  CA  ARG     8      24.583  33.947  28.094  1.00  0.00           C
+ATOM    156  CA  LEU     9      25.153  37.767  27.894  1.00  0.00           C
+ATOM    175  CA  LEU    10      28.743  39.147  28.634  1.00  0.00           C
+ATOM    194  CA  ARG    11      30.513  35.747  28.334  1.00  0.00           C
+ATOM    218  CA  SER    12      33.523  37.727  26.734  1.00  0.00           C
+ATOM    229  CA  LEU    13      36.913  37.627  28.454  1.00  0.00           C
+ATOM    248  CA  TRP    14      38.233  40.627  26.304  1.00  0.00           C
+ATOM    272  CA  ARG    15      35.063  42.747  26.024  1.00  0.00           C
+ATOM    296  CA  LEU    16      34.253  42.237  29.774  1.00  0.00           C
+ATOM    315  CA  LEU    17      33.023  45.447  31.604  1.00  0.00           C
+ATOM    334  CA  TRP    18      34.763  47.507  34.244  1.00  0.00           C
+ATOM    358  CA  ARG    19      31.853  47.757  36.784  1.00  0.00           C
+ATOM    382  CA  ALA    20      29.723  45.077  38.454  1.00  0.00           C
+TER
+ENDMDL
